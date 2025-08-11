@@ -17,3 +17,8 @@ var myVar = "Hello, world!";
 ```
 
 I add some javascript code.
+
+- [x] Add a header
+- [x] Add an image
+- [x] Add some code
+- [ ] Add a task list
